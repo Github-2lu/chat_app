@@ -1,16 +1,9 @@
 # chat_app
 
-A new Flutter project.
+An android group chat app using flutter and firebase with user signin and authentication.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_2025-04-21-12-16-45-569_com example chat_app](https://github.com/user-attachments/assets/00704b67-5781-4ce6-9be0-5da3c7eeb5f8)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2025-04-21-12-00-50-455_com example chat_app](https://github.com/user-attachments/assets/945f92e8-cc3e-43a4-99b5-04627020d782)
